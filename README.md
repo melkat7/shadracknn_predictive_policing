@@ -10,3 +10,4 @@ For a blog post explaining this project please visit:
 http://www.orlandotorres.org/predictive-policing-sf.html
 
 Adding message to enable new commit
+Allowing unrelated histories to merge
