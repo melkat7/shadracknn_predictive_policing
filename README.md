@@ -11,3 +11,5 @@ http://www.orlandotorres.org/predictive-policing-sf.html
 
 Adding message to enable new commit
 Allowing unrelated histories to merge
+
+Trial change
